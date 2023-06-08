@@ -1,7 +1,7 @@
 {
   "name": "react-tailwind",
   "version": "1.0.0",
-  "description": "react-tailwind",
+  "description": "React Tailwind",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
