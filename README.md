@@ -1,6 +1,6 @@
 # React Tailwind CSS
 
-# Description
+## Description
 
 This project contains React components built with Tailwind CSS
 
